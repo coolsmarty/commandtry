@@ -1,0 +1,6 @@
+projectKey=com.practice:maven001
+serverUrl=http://localhost:9000
+serverVersion=6.7.0.33306
+dashboardUrl=http://localhost:9000/dashboard/index/com.practice:maven001
+ceTaskId=AV-sScf5MZ226BE1Ye7z
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV-sScf5MZ226BE1Ye7z

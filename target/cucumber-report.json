@@ -1,0 +1,46 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Login functionality exists",
+        "description": "",
+        "id": "cucumberjava;login-functionality-exists",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 15005043102,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "I have open the browser",
+            "match": {
+              "location": "cucumberJava.openBrowser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6288625709,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I open Facebook website",
+            "match": {
+              "location": "cucumberJava.goToFacebook()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "CucumberJava",
+    "description": "",
+    "id": "cucumberjava",
+    "keyword": "Feature",
+    "uri": "cucumberJava.feature"
+  }
+]
