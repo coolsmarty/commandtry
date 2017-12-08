@@ -28,14 +28,14 @@ formatter.match({
   "location": "cucumberJava.openBrowser()"
 });
 formatter.result({
-  "duration": 15005043102,
+  "duration": 24162605706,
   "status": "passed"
 });
 formatter.match({
   "location": "cucumberJava.goToFacebook()"
 });
 formatter.result({
-  "duration": 6288625709,
+  "duration": 11859571618,
   "status": "passed"
 });
 });
