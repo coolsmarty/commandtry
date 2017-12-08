@@ -26,7 +26,7 @@ import cucumber.api.junit.Cucumber;
 //@Cucumber.Options(format = {"pretty", "html:target/cucumber"}) 
 @RunWith(Cucumber.class)
 @CucumberOptions(plugin = {"pretty", "json:target/cucumber-report.json", "html:target"},
-  features = {"src/test/java/CucumberJava"},
+  features = {"src/main/java/CucumberJava"},
   monochrome=true
   ) 
 
