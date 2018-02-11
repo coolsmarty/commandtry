@@ -18,6 +18,8 @@ import cucumber.api.java.en.When;
 //import cucumber.annotation.en.Then; 
 //import cucumber.annotation.en.When; 
 
+
+
 public class cucumberJava { 
    WebDriver driver = null; 
 	
@@ -26,7 +28,7 @@ public class cucumberJava {
       driver = new FirefoxDriver(); 
    } 
 	
-   @When("^I open Facebook website$") 
+  @When("^I OPEN Facebook website$") 
    public void goToFacebook() { 
       driver.navigate().to("https://www.facebook.com/"); 
      // WebDriver driver=new FirefoxDriver();

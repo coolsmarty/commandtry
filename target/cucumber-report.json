@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 78227590565,
+              "duration": 9786934411,
               "status": "passed"
             },
             "line": 3,
@@ -24,11 +24,11 @@
           },
           {
             "result": {
-              "duration": 17115935949,
+              "duration": 4646063870,
               "status": "passed"
             },
             "line": 4,
-            "name": "I open Facebook website",
+            "name": "I OPEN Facebook website",
             "match": {
               "location": "cucumberJava.goToFacebook()"
             },
