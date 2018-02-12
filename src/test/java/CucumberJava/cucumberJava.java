@@ -38,7 +38,7 @@ public class cucumberJava {
       }
       catch (IOException e)
       {
-    	  System.out.println("yyyerroyyy");
+    	  System.out.println("yyyerroyyys");
       }
    } 
 	
