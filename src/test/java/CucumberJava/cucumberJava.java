@@ -34,7 +34,7 @@ public class cucumberJava {
      // WebDriver driver=new FirefoxDriver();
       File src= ((TakesScreenshot)driver). getScreenshotAs(OutputType. FILE);
       try {
-      FileUtils.copyFile(src, new File("C:/selenium/erroryy.png"));
+      FileUtils.copyFile(src, new File("C:/selenium/erroyy.png"));
       }
       catch (IOException e)
       {
